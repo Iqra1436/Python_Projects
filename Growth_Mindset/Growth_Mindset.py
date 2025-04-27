@@ -1,8 +1,8 @@
 # streamlit
 import streamlit as st
 
-st.set_page_config(page_title="Growth Mindset Project By Jabbar Jatoi")
-st.title("🌱 Growth Mindset AI Project By Jabbar Jatoi")
+st.set_page_config(page_title="Growth Mindset Project By IQRA JAHANGIR", page_icon="🌱", layout="centered")
+st.title("🌱 Growth Mindset AI Project By Iqra Jahangir")
 
 st.header("🚀 Welcome to Your Growth Journey!")
 st.write("Embrace Challenges, Learn From Mistakes, And Unlock Your Full Potential. This Is AI-Powered App Helps You Build a Growth Mindset With Reflection, Challenges And Achievments! 🌟")
@@ -10,7 +10,7 @@ st.write("Embrace Challenges, Learn From Mistakes, And Unlock Your Full Potentia
 
 # Quote Section
 st.header("💡Today's Growth Mindset Quote")
-st.write("Strive For The Moon. Even If You Fail, You Will Land Among The Stars 🌙✨🚀.""- By Jabbar Jatoi!")
+st.write("Strive For The Moon. Even If You Fail, You Will Land Among The Stars 🌙✨🚀.""- By Iqra Jahangir!")
 
 st.header("🛠️ What's Your Challenge Today?")
 user_input = st.text_input("Describe a Challenge You're Facing: ")
